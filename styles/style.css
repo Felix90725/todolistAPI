@@ -281,6 +281,7 @@ html {
   font-size: 14px;
 }
 .todo_wrap .tab li {
+  cursor: pointer;
   padding: 1rem;
   width: 100%;
   border-bottom: 2px solid #efefef;
